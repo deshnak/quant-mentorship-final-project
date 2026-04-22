@@ -30,10 +30,6 @@ arch, scipy.
 
 ## References
 
-Engle, R. (2002). Dynamic Conditional Correlation: A Simple Class of 
-Multivariate GARCH Models. *Journal of Business & Economic Statistics*, 
-20(3), 339-350.
-
 Molenaar, R., Senechal, E., Swinkels, L., & Wang, Z. (2024). Empirical 
 Evidence on the Stock-Bond Correlation. *Financial Analysts Journal*, 
 80(2).
